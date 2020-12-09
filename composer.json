@@ -1,6 +1,6 @@
 {
-  "name": "maxbanton/dd",
-  "homepage": "https://github.com/maxbanton/dd",
+  "name": "buffary/ddd",
+  "homepage": "https://github.com/buffary/ddd",
   "description": "Laravel's old school style dump library",
   "type": "library",
   "license": "MIT",
